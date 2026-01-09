@@ -1,11 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="ub-Z_XJ_85JXiPSr9Onp">
-    <mxGraphModel dx="1892" dy="1194" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FEFEFE)" math="0" shadow="0">
+    <mxGraphModel dx="631" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FEFEFE)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-11" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#23445D;" target="dcz8ZKIJJ2Z8vs4EcwrD-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="593" y="830" />
+              <mxPoint x="593" y="908" />
+              <mxPoint x="737" y="908" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#5D7F99,#99CCFF);strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(5, 5, 5));&quot;&gt;Pelanggan&lt;/font&gt;&lt;/h2&gt;" vertex="1">
-          <mxGeometry height="266" width="227" x="90" y="452" as="geometry" />
+          <mxGeometry height="266" width="227" x="15" y="600" as="geometry" />
         </mxCell>
         <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-6" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=18;whiteSpace=wrap;html=1;fillColor=light-dark(#5D7F99,#0066CC);strokeColor=#D0CEE2;fontColor=#1A1A1A;glass=0;swimlaneLine=0;swimlaneFillColor=light-dark(#FFFFFF,#99CCFF);labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1&lt;/font&gt;" vertex="1">
           <mxGeometry height="216" width="244.08" x="737" y="425" as="geometry" />
@@ -18,6 +27,102 @@
         </mxCell>
         <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-10" parent="dcz8ZKIJJ2Z8vs4EcwrD-9" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;h2 style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(18, 18, 18));&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;font&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Pembelian Online&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/h2&gt;" vertex="1">
           <mxGeometry height="166" width="244.08" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi status pengiriman barang&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="302" y="779" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi Pembayaran&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="283" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-14" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.862;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" target="dcz8ZKIJJ2Z8vs4EcwrD-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="578" y="859" />
+              <mxPoint x="578" y="926" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi Barang yang Dipesan&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="283" y="841" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-17" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="899" />
+              <mxPoint x="604" y="802" />
+            </Array>
+            <mxPoint x="244" y="802" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-18" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#23445D;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="614" y="885" />
+              <mxPoint x="614" y="770" />
+            </Array>
+            <mxPoint x="241" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi Barang yang dijual&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="302" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-21" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.541;entryDx=0;entryDy=0;strokeColor=#23445D;entryPerimeter=0;" target="dcz8ZKIJJ2Z8vs4EcwrD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="625" y="866" />
+              <mxPoint x="625" y="744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi hasil pembayaran&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="297" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-23" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;exitX=0.987;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" target="dcz8ZKIJJ2Z8vs4EcwrD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="629" y="678" />
+              <mxPoint x="629" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi barang yang dibeli&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="297" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-26" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" target="dcz8ZKIJJ2Z8vs4EcwrD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="569" />
+              <mxPoint x="620" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi hasil pembayaran&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="297" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#5D7F99,#99CCFF);strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" value="&lt;h2&gt;&lt;font style=&quot;font-size: 24px; color: light-dark(rgb(0, 0, 0), rgb(5, 5, 5));&quot;&gt;Kasir&lt;/font&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="266" width="227" x="1406" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-30" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" target="dcz8ZKIJJ2Z8vs4EcwrD-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1329" y="866" />
+              <mxPoint x="1329" y="797" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi Barang yang Dipesan&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="1026" y="848" as="geometry" />
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-32" edge="1" parent="1" source="dcz8ZKIJJ2Z8vs4EcwrD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" target="dcz8ZKIJJ2Z8vs4EcwrD-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="899" />
+              <mxPoint x="1340" y="819" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dcz8ZKIJJ2Z8vs4EcwrD-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#1A1A1A,#0E0E0E);fontSize=16;" value="&lt;font&gt;Informasi pembayaran&amp;nbsp;&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="260" x="1026" y="881" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
