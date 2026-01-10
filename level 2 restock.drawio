@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="qliOTNdR5cl_lCg6Zq53">
-    <mxGraphModel dx="1301" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FEFEFE)" math="0" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="885" dy="546" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FEFEFE)" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,9 @@
         </mxCell>
         <mxCell id="9ne4CkuI2aVJZTVWITsr-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontSize=16;labelBackgroundColor=none;" value="&lt;font&gt;Informasi produk yang dipesan&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="16" width="229" x="363" y="306" as="geometry" />
+        </mxCell>
+        <mxCell id="9ne4CkuI2aVJZTVWITsr-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontSize=16;labelBackgroundColor=none;" value="&lt;font&gt;informasi hasil pesanan&lt;br&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="16" width="229" x="958" y="314" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
