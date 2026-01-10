@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Halaman-1" id="rugmRTEVD4xBXW9Cxd88">
-    <mxGraphModel dx="1383" dy="853" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1164" dy="718" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
             <mxPoint x="1261" y="833" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Reu3RYJF58h_NmwDX4nr-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontSize=16;labelBackgroundColor=none;" value="&lt;font&gt;Informasi pembelian&lt;br&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="Reu3RYJF58h_NmwDX4nr-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;fontSize=16;labelBackgroundColor=none;" value="&lt;font&gt;Informasi pembayaran&lt;br&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="16" width="229" x="990" y="814" as="geometry" />
         </mxCell>
         <mxCell id="Reu3RYJF58h_NmwDX4nr-28" edge="1" parent="1" source="Reu3RYJF58h_NmwDX4nr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;exitX=0;exitY=0.552;exitDx=0;exitDy=0;exitPerimeter=0;" target="Reu3RYJF58h_NmwDX4nr-15">
